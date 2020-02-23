@@ -27,7 +27,7 @@
     "express-handlebars": "^2.0.1",
     "express-session": "^1.10.3",
     "font-awesome": "^4.4.0",
-    "fs-extra": "^0.23.1",
+    "fs-extra": "^0.30.0",
     "github-api": "^0.10.6",
     "gulp": "^3.8.11",
     "gulp-babel": "^5.1.0",
