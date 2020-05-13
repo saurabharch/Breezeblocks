@@ -53,7 +53,7 @@
     "karma-phantomjs-launcher": "^0.1.4",
     "lodash": "^3.10.1",
     "mocha-mongoose": "^1.0.3",
-    "mongodb": "^1.4.33",
+    "mongodb": "^2.0.0",
     "mongoose": "^4.0.7",
     "node-zip": "^1.1.1",
     "nodegit": "^0.4.1",
