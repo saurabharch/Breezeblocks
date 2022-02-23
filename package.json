@@ -45,7 +45,7 @@
     "gulp-uglify": "^1.1.0",
     "handlebars": "^3.0.3",
     "interact.js": "^1.2.4",
-    "karma": "^0.12.31",
+    "karma": "^6.3.16",
     "karma-chai": "^0.1.0",
     "karma-coverage": "^0.2.7",
     "karma-mocha": "^0.1.10",
