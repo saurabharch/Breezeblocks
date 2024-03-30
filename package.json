@@ -29,7 +29,7 @@
     "font-awesome": "^4.4.0",
     "fs-extra": "^0.23.1",
     "github-api": "^0.10.6",
-    "gulp": "^3.8.11",
+    "gulp": "^5.0.0",
     "gulp-babel": "^5.1.0",
     "gulp-concat": "^2.5.2",
     "gulp-eslint": "^0.14.0",
